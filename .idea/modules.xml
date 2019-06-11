@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collections-demo/collections-demo.iml" filepath="$PROJECT_DIR$/collections-demo/collections-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design-pattern-demo.iml" filepath="$PROJECT_DIR$/design-pattern-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/partten-demo3/partten-demo3.iml" filepath="$PROJECT_DIR$/partten-demo3/partten-demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pattern-demo2/pattern-demo2.iml" filepath="$PROJECT_DIR$/pattern-demo2/pattern-demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shell-demo/shell-demo.iml" filepath="$PROJECT_DIR$/shell-demo/shell-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/util-demo/util-demo.iml" filepath="$PROJECT_DIR$/util-demo/util-demo.iml" />
+    </modules>
+  </component>
+</project>

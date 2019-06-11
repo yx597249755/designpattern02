@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="util-demo" />
+        <module name="partten-demo3" />
+        <module name="collections-demo" />
+        <module name="shell-demo" />
+        <module name="design-pattern-demo" />
+        <module name="pattern-demo2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="collections-demo" target="1.8" />
+      <module name="design-pattern-demo" target="1.8" />
+      <module name="partten-demo3" target="1.8" />
+      <module name="pattern-demo" target="1.8" />
+      <module name="pattern-demo2" target="1.8" />
+      <module name="shell-demo" target="1.8" />
+      <module name="util-demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="collections-demo" options="-parameters" />
+      <module name="design-pattern-demo" options="-parameters" />
+      <module name="partten-demo3" options="-parameters" />
+      <module name="pattern-demo" options="-parameters" />
+      <module name="pattern-demo2" options="-parameters" />
+      <module name="shell-demo" options="-parameters" />
+      <module name="util-demo" options="-parameters" />
+    </option>
+  </component>
+</project>
